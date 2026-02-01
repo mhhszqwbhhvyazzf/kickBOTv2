@@ -18,7 +18,7 @@ async function calistir(mesaj) {
     ]
 
     const chAuth = [
-        "Bearer 322426448|yla29mOyBBMQgek3mLbVhrbgdk9SqgTIoRxNojLR",
+        "",
         "",
         "",
         ""
